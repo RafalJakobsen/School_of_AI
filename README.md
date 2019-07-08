@@ -8,8 +8,8 @@ Data Lit is is a 3 month course designed to help absolute beginners become profi
 - 1 Weekly assignment
 
 <h3> Course Length </h3>
-- 12 Weeks
-- 10-15 hours per week
+<p> - 12 Weeks </p>
+<p> - 10-15 hours per week </p>
 
 <h3> Tools Used </h3>
 - Python, SQL, Tensorflow, Hadoop, MapReduce, Spark, GitHub

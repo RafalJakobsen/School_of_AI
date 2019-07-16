@@ -1,5 +1,5 @@
 <h1> School_of_AI </h1>
-<h2> 12 weeks course Data </h2>
+<h2> 12 weeks course Data Lit</h2>
 
 <p> Data Lit is is a 3 month course designed to help absolute beginners become proficient in Data Science. Each week offers lessons on Data Science fundamentals applied to real-world problems that Data Scientists help solve. After completing this course, start applying for jobs, doing contract work, start your own data science consulting group, or just keep on learning. Remember to believe in your ability to learn.  </p> 
 
